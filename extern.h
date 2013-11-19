@@ -1,0 +1,1 @@
+extern int next_id;
